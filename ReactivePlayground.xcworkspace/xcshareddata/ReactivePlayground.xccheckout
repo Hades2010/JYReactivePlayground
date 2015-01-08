@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>93B778A9-65DE-4CD5-BDE1-11F8FB007833</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReactivePlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4BAB6E48142838E1422440ADFAE5DF8078EA5333</key>
+		<string>https://github.com/Hades2010/JYReactivePlayground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReactivePlayground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4BAB6E48142838E1422440ADFAE5DF8078EA5333</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Hades2010/JYReactivePlayground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4BAB6E48142838E1422440ADFAE5DF8078EA5333</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4BAB6E48142838E1422440ADFAE5DF8078EA5333</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReactivePlayground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
